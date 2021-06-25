@@ -1,0 +1,39 @@
+.text{
+    color:aqua
+}
+
+#quite{
+    color:blueviolet
+}
+
+h1{
+    color:chocolate
+}
+
+.vibe.real{
+    color:fuchsia
+}
+
+div p{
+    color:greenyellow
+}
+
+h1~p{
+    color:seagreen
+}
+
+b+i{
+    color:silver
+}
+
+[href]{
+    color:skyblue
+}
+
+.quote{
+    color:slateblue
+}
+
+#life{
+    color:springgreen
+}
